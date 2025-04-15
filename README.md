@@ -50,8 +50,8 @@ Olá, eu sou o
 ### 📊 **Estatísticas**  
 
 <div align="center">
-   <img scr="https://github-readme-stats.vercel.app/api/?username=edudouraado&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515;" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edudouraado&theme=radical" width="50%" height="190px" style="object-fit: cover; margin-right: 2%;" />
+   ![Anurag's GitHub stats]<img scr="https://github-readme-stats.vercel.app/api/?username=edudouraado&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515;" />]
+   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudouraado&layout=compact&theme=radical" width="48%" height="190px" style="object-fit: cover;" />
 </div>
 
