@@ -30,6 +30,7 @@ Olá, eu sou o
 ## 🚀 Bem-vindo ao meu perfil!  
 
 🎓 **Bacharel de Direito e estudante de Análise e Desenvolvimento de Sistemas**  
+💼 **Estagiário no setor de Prevenção de Perdas e Gestão de Estoque na SBFarma**
 💻 **Apaixonado por tecnologia, desenvolvimento e inovação**  
 📚 **Sempre aprendendo algo novo e compartilhando conhecimento!**  
 
