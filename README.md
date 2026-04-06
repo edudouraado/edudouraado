@@ -30,7 +30,7 @@ Olá, eu sou o
 ## 🚀 Bem-vindo ao meu perfil!  
 
 🎓 **Bacharel de Direito e estudante de Análise e Desenvolvimento de Sistemas**<br>
-💼 **Analista de Prevenção de Perdas e Gestão de Estoque na SBFarma**<br>
+💼 **Analista de Gestão de Estoque Jr na SBFarma**<br>
 💻 **Apaixonado por tecnologia, desenvolvimento e inovação**<br>
 📚 **Sempre aprendendo algo novo e compartilhando conhecimento!**
 
